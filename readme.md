@@ -1,0 +1,1 @@
+For some more details you can also visit my blog - https://medium.com/@ashish958702/monorepo-architecture-59b29c4f5e21
